@@ -28,7 +28,8 @@
   <a href="https://www.linkedin.com/in/juhideore/" target="_blank">
     <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
   </a>
-  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://www.instagram.com/juhi._11/" target="_blank">
     <img src="https://skillicons.dev/icons?i=instagram" height="40" />
   </a>
 </p>
