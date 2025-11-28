@@ -11,7 +11,7 @@
 
 ---
 
-## 🚀 About Me
+## About Me
 
 - 💻 Full-stack developer experienced in building **complex, end-to-end systems**
 - ⚙️ Strong in **backend architecture, high-performance APIs & distributed flows**
@@ -19,3 +19,16 @@
 - 🤝 Love collaborating and contributing to meaningful products  
 - 🧠 Interested in **Machine Learning**, event-driven systems & real-time data flows  
 - 🎭 A creative soul — trained Bharatanatyam dancer & Carnatic vocalist
+
+---
+
+## Connect With Me
+
+<p align="left">
+  <a href="https://www.linkedin.com/in/juhideore/" target="_blank">
+    <img src="https://skillicons.dev/icons?i=linkedin" height="40" />
+  </a>
+  <a href="https://www.instagram.com/your_instagram_username" target="_blank">
+    <img src="https://skillicons.dev/icons?i=instagram" height="40" />
+  </a>
+</p>
